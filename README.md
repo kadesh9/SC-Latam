@@ -1,4 +1,4 @@
-# Star Citizen espñol -Latino neutro
+# Star Citizen en español -Latino neutro
 ##Traducción al español latino (Neutro) de Star Citizen.
 
 Descarga el archivo "global.ini" y ayúdanos a traducir Star Citizen :D
